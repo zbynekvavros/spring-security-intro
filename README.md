@@ -1,1 +1,3 @@
 # spring-security-intro
+Short introduction into Spring Security.
+Uses XML configuration and presents generated form/custom form/HTTP Basic/method security...

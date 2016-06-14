@@ -1,0 +1,1 @@
+<a href="views/index.jsp">Protected page</a>
