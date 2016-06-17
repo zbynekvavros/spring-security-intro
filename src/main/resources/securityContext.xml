@@ -92,7 +92,7 @@
 <!-- 	<beans:bean id="authenticationEntryPoint" -->
 <!-- 		class="org.springframework.security.web.authentication.Http403ForbiddenEntryPoint" /> -->
 
-<!-- 	<http> -->
+<!-- 	<http create-session="stateless"> -->
 <!-- 		<intercept-url pattern="/views/**" access="hasRole('USER')" /> -->
 <!-- 		<http-basic entry-point-ref="authenticationEntryPoint" /> -->
 <!-- 		<logout /> -->
